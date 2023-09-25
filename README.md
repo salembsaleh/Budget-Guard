@@ -1,8 +1,8 @@
-# Broke
+# Budget Guard
 
 Hey guys! Here is a short introduction to our project
 
-Broke is: 
+Budget Guard is: 
 - A Full Stack Web App helping users to find grocery/food/drink/gas in their area for lowest prices 
 User selects radius for target searching
 
